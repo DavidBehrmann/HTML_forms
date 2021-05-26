@@ -38,14 +38,21 @@ nav {
     
 }
 .form-wrapper input{
-    border-radius: 5px;
+    border-radius: 3px;
+    width: 48%;
+
+}
+.form-wrapper h1{
+    text-align: left;
+    margin-left: 25%;
 }
 
 #submit{
     width: 50%;
     background-color: dodgerblue;
     color: white;
-    border-radius: 5px;
+    border-radius: 3px;
+    
 }
 
 
