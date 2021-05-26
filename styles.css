@@ -22,14 +22,14 @@ nav {
     margin: 10px;
     background-color: dodgerblue;
     text-decoration: none;
-    padding: 10px;
-    border-radius: 5px;
+    padding: 6px;
+    border-radius: 3px;
     color: white;
 }
 
 .form-wrapper{
     margin: 100px 30% 30% 30%;
-    width: 30%;
+    width: 25%;
     border: 2px solid grey;
     padding:10px;
     text-align: center;
@@ -39,20 +39,29 @@ nav {
 }
 .form-wrapper input{
     border-radius: 3px;
-    width: 48%;
+    width: 70%;
+    padding: 3px;
+    margin: 5px;
 
 }
 .form-wrapper h1{
     text-align: left;
-    margin-left: 25%;
-}
-
-#submit{
-    width: 50%;
-    background-color: dodgerblue;
-    color: white;
-    border-radius: 3px;
+    margin-left: 13%;
     
 }
 
-
+#submit{
+    width: 70%;
+    background-color: dodgerblue;
+    color: white;
+    border-style: hidden;
+    border-radius: 3px;
+    
+}
+.media-icons{
+    margin:14px;
+    padding-left: 10px;
+}
+.media-icons a{
+    text-decoration: none;
+}
